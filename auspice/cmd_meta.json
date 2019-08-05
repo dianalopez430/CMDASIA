@@ -1,0 +1,278 @@
+{
+  "annotations": {
+    "AC1": {
+      "end": 2599,
+      "start": 1543,
+      "strand": -1
+    },
+    "AC2": {
+      "end": 1614,
+      "start": 1206,
+      "strand": -1
+    },
+    "AC3": {
+      "end": 1466,
+      "start": 1061,
+      "strand": -1
+    },
+    "AC4": {
+      "end": 2445,
+      "start": 2142,
+      "strand": -1
+    },
+    "AV1": {
+      "end": 1065,
+      "start": 294,
+      "strand": 1
+    },
+    "AV2": {
+      "end": 473,
+      "start": 134,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 2755,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "vietnam",
+          "#4928B4"
+        ],
+        [
+          "china",
+          "#4379CD"
+        ],
+        [
+          "india",
+          "#5CA7A4"
+        ],
+        [
+          "cambodia",
+          "#A4BE56"
+        ],
+        [
+          "sri_Lanka",
+          "#DC2F24"
+        ],
+        [
+          "thailandia",
+          "#CCB742"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "country",
+      "menuItem": "country"
+    },
+    "location": {
+      "color_map": [
+        [
+          "aturr",
+          "#511EA8"
+        ],
+        [
+          "colombo",
+          "#4334BF"
+        ],
+        [
+          "datian",
+          "#3F50CC"
+        ],
+        [
+          "dharwad",
+          "#416CCE"
+        ],
+        [
+          "katerniaghat",
+          "#4784C7"
+        ],
+        [
+          "kerala_adivaram",
+          "#5098B9"
+        ],
+        [
+          "kerala_erode",
+          "#5CA7A4"
+        ],
+        [
+          "kerala_Kattakuda",
+          "#6BB18E"
+        ],
+        [
+          "kerala_Malappuram",
+          "#7CB878"
+        ],
+        [
+          "kerala_Malayinkil",
+          "#A4BE56"
+        ],
+        [
+          "kerala_tamil_nadu",
+          "#B9BC4A"
+        ],
+        [
+          "maharashtra",
+          "#CCB742"
+        ],
+        [
+          "ratanakiri",
+          "#DAAC3D"
+        ],
+        [
+          "salem",
+          "#E39B39"
+        ],
+        [
+          "tayninh",
+          "#E68234"
+        ],
+        [
+          "thiruvananthapuram_Kerala",
+          "#E4632E"
+        ],
+        [
+          "thailandia",
+          "#DF4027"
+        ]
+      ],
+      "key": "location",
+      "legendTitle": "location",
+      "menuItem": "location"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "virus": {
+      "key": "virus",
+      "legendTitle": "virus",
+      "menuItem": "virus",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "mapTriplicate": true
+  },
+  "filters": [
+    "virus",
+    "country",
+    "location"
+  ],
+  "geo": {
+    "country": {
+      "cambodia": {
+        "latitude": 12.890632,
+        "longitude": 104.936515
+      },
+      "china": {
+        "latitude": 25.340718,
+        "longitude": 116.456155
+      },
+      "india": {
+        "latitude": 11.076004,
+        "longitude": 77.064672
+      },
+      "sri_Lanka": {
+        "latitude": 7.623624,
+        "longitude": 80.733229
+      },
+      "thailandia": {
+        "latitude": 13.8824956,
+        "longitude": 101.5830231
+      },
+      "vietnam": {
+        "latitude": 15.015518,
+        "longitude": 108.1444
+      }
+    },
+    "location": {
+      "aturr": {
+        "latitude": 11.55642,
+        "longitude": 78.63371
+      },
+      "colombo": {
+        "latitude": 6.93195,
+        "longitude": 79.84556
+      },
+      "datian": {
+        "latitude": 26.15,
+        "longitude": 118.41667
+      },
+      "dharwad": {
+        "latitude": 15.505117,
+        "longitude": 74.884641
+      },
+      "katerniaghat": {
+        "latitude": 28.24704,
+        "longitude": 81.231187
+      },
+      "kerala_Kattakuda": {
+        "latitude": 8.501761,
+        "longitude": 77.083653
+      },
+      "kerala_Malappuram": {
+        "latitude": 11.13017,
+        "longitude": 76.11481
+      },
+      "kerala_Malayinkil": {
+        "latitude": 8.490399,
+        "longitude": 77.040245
+      },
+      "kerala_adivaram": {
+        "latitude": 11.487609,
+        "longitude": 76.012761
+      },
+      "kerala_erode": {
+        "latitude": 11.344619,
+        "longitude": 77.716241
+      },
+      "kerala_tamil_nadu": {
+        "latitude": 11.66552,
+        "longitude": 78.768159
+      },
+      "maharashtra": {
+        "latitude": 20.090937,
+        "longitude": 75.635372
+      },
+      "ratanakiri": {
+        "latitude": 13.57494,
+        "longitude": 106.77093
+      },
+      "salem": {
+        "latitude": 11.727097,
+        "longitude": 78.63371
+      },
+      "tayninh": {
+        "latitude": 11.31465,
+        "longitude": 106.09276
+      },
+      "thailandia": {
+        "latitude": 13.8824956,
+        "longitude": 101.5830231
+      },
+      "thiruvananthapuram_Kerala": {
+        "latitude": 8.536886,
+        "longitude": 76.95138
+      }
+    }
+  },
+  "maintainer": [
+    "PestDisPlace",
+    "https://pestdisplace.org/"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses",
+  "updated": "01 Aug 2019",
+  "virus_count": 31
+}
