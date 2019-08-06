@@ -1,37 +1,37 @@
 {
   "annotations": {
     "AC1": {
-      "end": 2599,
-      "start": 1543,
+      "end": 2603,
+      "start": 1568,
       "strand": -1
     },
     "AC2": {
-      "end": 1614,
-      "start": 1206,
+      "end": 1618,
+      "start": 1210,
       "strand": -1
     },
     "AC3": {
-      "end": 1466,
-      "start": 1061,
+      "end": 1470,
+      "start": 1065,
       "strand": -1
     },
     "AC4": {
-      "end": 2445,
-      "start": 2142,
+      "end": 2449,
+      "start": 2146,
       "strand": -1
     },
     "AV1": {
-      "end": 1065,
-      "start": 294,
+      "end": 1069,
+      "start": 298,
       "strand": 1
     },
     "AV2": {
-      "end": 473,
-      "start": 134,
+      "end": 495,
+      "start": 138,
       "strand": 1
     },
     "nuc": {
-      "end": 2755,
+      "end": 2760,
       "start": 0,
       "strand": 1
     }
@@ -42,27 +42,27 @@
       "color_map": [
         [
           "vietnam",
-          "#4928B4"
+          "#2184c2"
         ],
         [
           "china",
-          "#4379CD"
+          "#356b8c"
         ],
         [
           "india",
-          "#5CA7A4"
+          "#44cb79"
         ],
         [
           "cambodia",
-          "#A4BE56"
+          "#0597f2"
         ],
         [
           "sri_Lanka",
-          "#DC2F24"
+          "#15824d"
         ],
         [
           "thailandia",
-          "#CCB742"
+          "#79c4f2"
         ]
       ],
       "key": "country",
@@ -136,7 +136,7 @@
           "#E4632E"
         ],
         [
-          "thailandia",
+          "prachin_buri",
           "#DF4027"
         ]
       ],
@@ -161,9 +161,9 @@
     "mapTriplicate": true
   },
   "filters": [
-    "virus",
     "country",
-    "location"
+    "location",
+    "virus"
   ],
   "geo": {
     "country": {
@@ -241,6 +241,10 @@
         "latitude": 20.090937,
         "longitude": 75.635372
       },
+      "prachin_buri": {
+        "latitude": 13.8824956,
+        "longitude": 101.5830231
+      },
       "ratanakiri": {
         "latitude": 13.57494,
         "longitude": 106.77093
@@ -252,10 +256,6 @@
       "tayninh": {
         "latitude": 11.31465,
         "longitude": 106.09276
-      },
-      "thailandia": {
-        "latitude": 13.8824956,
-        "longitude": 101.5830231
       },
       "thiruvananthapuram_Kerala": {
         "latitude": 8.536886,
@@ -272,7 +272,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses",
-  "updated": "01 Aug 2019",
-  "virus_count": 31
+  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses (DNA-A)",
+  "updated": "06 Aug 2019",
+  "virus_count": 30
 }
