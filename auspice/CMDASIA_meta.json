@@ -1,37 +1,37 @@
 {
   "annotations": {
     "AC1": {
-      "end": 2603,
-      "start": 1568,
+      "end": 2599,
+      "start": 1543,
       "strand": -1
     },
     "AC2": {
-      "end": 1618,
-      "start": 1210,
+      "end": 1614,
+      "start": 1206,
       "strand": -1
     },
     "AC3": {
-      "end": 1470,
-      "start": 1065,
+      "end": 1466,
+      "start": 1061,
       "strand": -1
     },
     "AC4": {
-      "end": 2449,
-      "start": 2146,
+      "end": 2445,
+      "start": 2142,
       "strand": -1
     },
     "AV1": {
-      "end": 1069,
-      "start": 298,
+      "end": 1065,
+      "start": 294,
       "strand": 1
     },
     "AV2": {
-      "end": 495,
-      "start": 138,
+      "end": 473,
+      "start": 134,
       "strand": 1
     },
     "nuc": {
-      "end": 2760,
+      "end": 2755,
       "start": 0,
       "strand": 1
     }
@@ -42,27 +42,27 @@
       "color_map": [
         [
           "vietnam",
-          "#2184c2"
+          "#4928B4"
         ],
         [
           "china",
-          "#356b8c"
+          "#4379CD"
         ],
         [
           "india",
-          "#44cb79"
+          "#5CA7A4"
         ],
         [
           "cambodia",
-          "#0597f2"
+          "#A4BE56"
         ],
         [
           "sri_Lanka",
-          "#15824d"
+          "#DC2F24"
         ],
         [
           "thailandia",
-          "#79c4f2"
+          "#CCB742"
         ]
       ],
       "key": "country",
@@ -134,10 +134,6 @@
         [
           "thiruvananthapuram_Kerala",
           "#E4632E"
-        ],
-        [
-          "prachin_buri",
-          "#DF4027"
         ]
       ],
       "key": "location",
@@ -241,10 +237,6 @@
         "latitude": 20.090937,
         "longitude": 75.635372
       },
-      "prachin_buri": {
-        "latitude": 13.8824956,
-        "longitude": 101.5830231
-      },
       "ratanakiri": {
         "latitude": 13.57494,
         "longitude": 106.77093
@@ -272,7 +264,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking and evolution of cassava-infecting geminiviruses (DNA-A)",
-  "updated": "06 Aug 2019",
+  "title": "Real-time tracking of Asia cassava mosaic virus evolution",
+  "updated": "06 Sep 2019",
   "virus_count": 30
 }
