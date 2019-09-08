@@ -59,10 +59,6 @@
         [
           "sri_Lanka",
           "#DC2F24"
-        ],
-        [
-          "thailandia",
-          "#CCB742"
         ]
       ],
       "key": "country",
@@ -164,8 +160,8 @@
   "geo": {
     "country": {
       "cambodia": {
-        "latitude": 12.890632,
-        "longitude": 104.936515
+        "latitude": 13.679988,
+        "longitude": 106.5784889
       },
       "china": {
         "latitude": 25.340718,
@@ -175,11 +171,15 @@
         "latitude": 11.076004,
         "longitude": 77.064672
       },
+      "singapore": {
+        "latitude": 1.297333,
+        "longitude": 103.775836
+      },
       "sri_Lanka": {
         "latitude": 7.623624,
         "longitude": 80.733229
       },
-      "thailandia": {
+      "thailand": {
         "latitude": 13.8824956,
         "longitude": 101.5830231
       },
@@ -237,13 +237,25 @@
         "latitude": 20.090937,
         "longitude": 75.635372
       },
+      "prachin_buri": {
+        "latitude": 13.8824956,
+        "longitude": 101.5830231
+      },
       "ratanakiri": {
-        "latitude": 13.57494,
-        "longitude": 106.77093
+        "latitude": 13.67998,
+        "longitude": 106.57848
       },
       "salem": {
         "latitude": 11.727097,
         "longitude": 78.63371
+      },
+      "singapore": {
+        "latitude": 1.297333,
+        "longitude": 103.775836
+      },
+      "surin": {
+        "latitude": 15.061014,
+        "longitude": 103.761312
       },
       "tayninh": {
         "latitude": 11.31465,
@@ -264,7 +276,7 @@
     "map",
     "entropy"
   ],
-  "title": "Real-time tracking of Asia cassava mosaic virus evolution",
-  "updated": "06 Sep 2019",
-  "virus_count": 30
+  "title": "Real-time tracking of cassava-infecting geminiviruses in Asia (DNA-A)",
+  "updated": "08 Sep 2019",
+  "virus_count": 33
 }
