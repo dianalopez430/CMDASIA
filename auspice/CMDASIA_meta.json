@@ -237,10 +237,6 @@
         "latitude": 20.090937,
         "longitude": 75.635372
       },
-      "prachin_buri": {
-        "latitude": 13.8824956,
-        "longitude": 101.5830231
-      },
       "ratanakiri": {
         "latitude": 13.67998,
         "longitude": 106.57848
@@ -277,6 +273,6 @@
     "entropy"
   ],
   "title": "Real-time tracking of cassava-infecting geminiviruses in Asia (DNA-A)",
-  "updated": "30 Sep 2019",
-  "virus_count": 33
+  "updated": "09 Oct 2019",
+  "virus_count": 30
 }
