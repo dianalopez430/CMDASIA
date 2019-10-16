@@ -63,7 +63,8 @@
       ],
       "key": "country",
       "legendTitle": "country",
-      "menuItem": "country"
+      "menuItem": "country",
+      "type": "discrete"
     },
     "location": {
       "color_map": [
@@ -134,7 +135,8 @@
       ],
       "key": "location",
       "legendTitle": "location",
-      "menuItem": "location"
+      "menuItem": "location",
+      "type": "discrete"
     },
     "num_date": {
       "key": "num_date",
@@ -273,6 +275,6 @@
     "entropy"
   ],
   "title": "Real-time tracking of cassava-infecting geminiviruses in Asia (DNA-A)",
-  "updated": "09 Oct 2019",
+  "updated": "15 Oct 2019",
   "virus_count": 30
 }
